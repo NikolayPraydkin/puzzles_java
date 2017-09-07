@@ -1,3 +1,5 @@
+package Expressive;
+
 public class SwapMeat {
     public static void main(String[] args) {
         // не делаем так
